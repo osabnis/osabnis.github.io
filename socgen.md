@@ -5,7 +5,9 @@ layout: default
 # My Work at Societe Generale as a Data Scientist
 
 ## 1. Veritrade
-![featured](https://user-images.githubusercontent.com/38884346/130844677-616ec186-39b1-4453-be7b-6f82b6bcedd8.jpg)
+<div align="center">
+    <img alt="Logo" src="images/featured.jpg" width="300" />
+</div>
 * Veritrade is a solution to automate trade finance verification. The solution uses state of the art deep learning to first identify the type of documents 
   from 23 different categories like Bill of Lading, Letter of Credit, Invoice, etc. 
 * Once a document is classified the solution extracts critical information like issue date, type of commodity, billing address, etc from each of those 23 documents 
