@@ -80,7 +80,6 @@ Over the course of my undergraduate degree and my work at Societe Generale, I ha
   <a href="https://osabnis.github.io/sigtuple.html" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my work at SigTuple!</a>
   <a href="https://osabnis.github.io/msctr.html" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my work at MSCTR!</a>
   <a href="https://osabnis.github.io/iisc.html" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my work at IISc!</a>
-  <a href="https://osabnis.github.io/iiitb.html" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my work at IIITB!</a>
   <a href="https://osabnis.github.io/vit.html" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my work at VIT!</a>
 </div>
 
