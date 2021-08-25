@@ -1,8 +1,8 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/osabnis/osabnis.github.io/blob/master/final_logo.png" width="100" />
 </div>
 <h1 align="center">
-  Portfolio Website Version 2
+  My Portfolio Website!
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://osabnis.github.io/" target="_blank">osabnis.github.io</a> built with <a href="https://github.com/pages-themes/hacker" target="_blank">Hacker theme</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
