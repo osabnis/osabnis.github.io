@@ -5,10 +5,7 @@ layout: default
 # My Work at Societe Generale as a Data Scientist
 
 ## 1. Veritrade
-<div align="center">
-    <img alt="Logo" src="https://github.com/osabnis/osabnis.github.io/blob/master/images/featured.jpg" width="300" />
-</div>
-
+![featured](https://user-images.githubusercontent.com/38884346/130844677-616ec186-39b1-4453-be7b-6f82b6bcedd8.jpg)
 * Veritrade is a solution to automate trade finance verification. The solution uses state of the art deep learning to first identify the type of documents 
   from 23 different categories like Bill of Lading, Letter of Credit, Invoice, etc. 
 * Once a document is classified the solution extracts critical information like issue date, type of commodity, billing address, etc from each of those 23 documents 
@@ -26,7 +23,7 @@ layout: default
 
 ## 2. Sceptre
 <div align="center">
-    <img alt="Logo" src="https://github.com/osabnis/osabnis.github.io/blob/master/images/sceptre.png" width="300" />
+    <img alt="Logo" src="images/sceptre.png" width="300" />
 </div>
 * Sceptre is a platform built for conducting AI/ML related experiments. 
 * On-fly OCR functionality with the option to choose Tesseract (Open source) Engine, ABBYY Engine, or Azure OCR. 
@@ -39,7 +36,7 @@ layout: default
 
 ## 3. MAX
 <div align="center">
-    <img alt="Logo" src="https://github.com/osabnis/osabnis.github.io/blob/master/images/max.png" width="300" />
+    <img alt="Logo" src="images/max.png" width="300" />
 </div>
 * MAX is an artificial intelligent Conversation UX that understands natural language through voice and text. 
 * It engages in a conversation with a user, understands his/her intent, and helps user performing actions by connecting to relevant applications through APIs. 
@@ -50,7 +47,7 @@ layout: default
 
 ## SEMSE
 <div align="center">
-    <img alt="Logo" src="https://github.com/osabnis/osabnis.github.io/blob/master/images/semse.jpg" width="300" />
+    <img alt="Logo" src="images/semse.jpg" width="300" />
 </div>
 * Semse is a search tool that extracts business knowledge trapped inside thousands of documents by mitigating users’ struggle of finding information that they are looking for.
 * Semse uses all documents in as-is, where-is basis. It automatically learns entire knowledge from all the documents using state of the art deep learning techniques. 
