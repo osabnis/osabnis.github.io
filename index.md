@@ -53,7 +53,7 @@ I have worked in these amazing companies in the past!
   vehicle servicing and repair.
   
 **SigTuple Technologies, India** - _Data Science Team_
-* At SigTuple as an intern, I developed a Deep Learning pipeline to diagnose Tuberculosis on SigTuple’s AI100 and AI101 diagnostic machines - the
+* At <a href="https://sigtuple.com/" target="_blank">SigTuple</a> as an intern, I developed a Deep Learning pipeline to diagnose Tuberculosis on SigTuple’s AI100 and AI101 diagnostic machines - the
   goal is to reduce the diagnostic time by almost 90% and improve the accuracy of TB Sputum Smear Test by over 50%.
 * I also deployed a pipeline based on the Yolo architecture, which was able to grade FOVs for tuberculosis with an exact match
   in 161 FOV out of 185 taken from over 15 patients to the ground-truth established by a certified pathologist. The pipeline
@@ -64,7 +64,7 @@ I have worked in these amazing companies in the past!
   company.
 
 **Mazumdar Shaw Center for Translational Research, India** - _Neuro-Oncology Department_
-* At MSCTR, I had the opportunity to work under Dr. Nameeta Shah - one of the leading scientists in the domain of neuro-oncology. Here I worked on analyzing of Copy Number Variation Data and DNA Methylation Data for Finding Useful Biomarkers in Glioblastoma Multiforme, which is an aggressive brain cancer. I was able to find 15 significant genetic variations on analyzing 563 patient samples that help in predicting patient prognosis like ’Time to Death’ and ’Age of Occurrence.’
+* At <a href="https://www.msctr.org/" target="_blank">MSCTR</a>, I had the opportunity to work under <a href="https://www.msctr.org/2016/09/16/dr-nameeta-shah/"       target="_blank">Dr. Nameeta Shah</a> - one of the leading scientists in the domain of neuro-oncology. Here I worked on analyzing of Copy Number Variation Data and DNA Methylation   Data for Finding Useful Biomarkers in Glioblastoma Multiforme, which is an aggressive brain cancer. I was able to find 15 significant genetic variations on analyzing 563 patient   samples that help in predicting patient prognosis like ’Time to Death’ and ’Age of Occurrence.’
 * Applied a similar analysis pipeline to Lower Grade Gliomas, which are lesser dangerous tumours. I was able to find 12
   significant genetic variations on analyzing 958 patient samples that help in predicting patient prognosis like ’Time to
   Death’, ’Age of Occurrence’ and ’Histological Type.’
@@ -72,7 +72,15 @@ I have worked in these amazing companies in the past!
   doing algorithm analysis, testing and hosting the visualizations on a website. The paper can be found at - https://www.nature.com/articles/s41598-020-67016-3
   
 **Indian Institute of Science, Bangalore, India** - _Department of Computer Science and Automation_
-* 
+* At the <a href="https://www.csa.iisc.ac.in/" target="_blank">CSA department at IISc, Banglore </a>, I had the opportunity to work under <a href="https://www.csa.iisc.ac.in/~shirish/" target="_blank">Dr. Shirish Shevade </a>, an amazing researcher in the domain of Natural Language Processing. Here, I was able to         develop Sentiment and Semantic Analysis Systems using Convolutional Neural Networks. The system used a variety
+  of models to detect sentiment from simple structures like phrases and sentences and complex structures like documents.
+  The system analyzed the sentiment and was able to output which key words or phrases were able to impact the sentiment
+  of the sentence/document with an accuracy of 0.941 in sentences and 0.873 in documents.
+* Also implemented multi-domain projects in Computer Vision and Natural Language Processing where I built a Visual
+  Question Answering system based on a CNN and LSTM based architecture. The CNN model worked on extracting the
+  image features while the LSTM worked on extracting the features of the question. When an image and a question about
+  the image were given my model was able to give the correct top-5 answer with an accuracy of 0.56.
+
 
 
 
