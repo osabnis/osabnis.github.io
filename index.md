@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # About Me!
 
 Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my **Bachelors of Technology in Computer Science specializing in Bioinformatics** in 2020 from _Vellore Institute of Technology, Vellore_  with a GPA of **9.49** and graduated as a **bronze medallist**.
@@ -40,11 +31,26 @@ When I am not in front of the computer screen, I am probably playing video games
 </div>
 
 
-## Header 2
+# Where I have worked!
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I have worked in these amazing companies in the past!
+
+**Societe Generale** - _Artificial Intelligence Team - Innovations Group_
+* At SocGen, I was part of the Veritrade team, where I developed a new feature - a pilot meaning representation module that uses deep
+  learning to convert semantically similar but syntactically different natural language statements into a standard logical
+  form that a computer system can understand and execute. This feature wasn’t present neither in Veritrade nor in its competitors.
+  Veritrade is an AI based solution that automates the process of Letter of Credit based International Trade document
+  verification and validation against International standards using Deep Learning.
+* I was also a  member of the AI team that developed the deep learning framework for Sceptre - a document understanding
+  platform. I worked on developing the resource management component, model storage and versioning component and
+  model evaluation component for the platform. The platform aims at simplifying the training and evaluation of AI models
+  on documents by presenting a no-code UI to the business - for faster and easier AI development and deployment.
+* I was a part of a 2 member AI team that developed and deployed MAX - a deep learning based conversational agent
+  developed by Societe Generale - for ALD Automotive, Mumbai - a leading car leasing company. The process involved
+  designing conversational flow for the client, training deep learning models to identify customer intent and concepts
+  from customer queries and deploying MAX on the customer’s servers after testing. The deployment will help reduce
+  employee costs by around 50 percent and provide 24x7 support for the client by helping schedule appointments for
+  vehicle servicing and repair.
 
 ### Header 3
 
