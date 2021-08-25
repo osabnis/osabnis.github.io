@@ -8,10 +8,8 @@ layout: default
 <div align="center">
     <img alt="Logo" src="images/featured.jpg" width="300" />
 </div>
-* Veritrade is a solution to automate trade finance verification. The solution uses state of the art deep learning to first identify the type of documents 
-  from 23 different categories like Bill of Lading, Letter of Credit, Invoice, etc. 
-* Once a document is classified the solution extracts critical information like issue date, type of commodity, billing address, etc from each of those 23 documents 
-  using a hybrid approach comprising of both machine learning and heuristics. 
+* Veritrade is a solution to automate trade finance verification. The solution uses state of the art deep learning to first identify the type of documents from 23 different         categories like Bill of Lading, Letter of Credit, Invoice, etc. 
+* Once a document is classified the solution extracts critical information like issue date, type of commodity, billing address, etc from each of those 23 documents using a hybrid   approach comprising of both machine learning and heuristics. 
 * The information extraction approach is robust enough to handle different variations across the same documents. 
 * The solution then runs around 4000 consistency checks and rules specified by UCP and ISBP. The rules and consistency checks can be intra and inter documents.
 * Advantages of Veritrade:
@@ -20,7 +18,7 @@ layout: default
   * Brings objectivity to the UCP/ISBP rules
   * Flexible to quickly adapt to any UCP/ISBP rules
   * Eliminates training cost
-* As a part of the team, I developed a new feature - a pilot meaning representation module that uses deep learning to convert semantically similar but syntactically different natural language statements into a standard logical form that a computer system can understand and execute. This feature wasn’t present neither in Veritrade nor in its competitors.
+* As a part of the team, I developed a new feature - a pilot meaning representation module that uses deep learning to convert semantically similar but syntactically different       natural language statements into a standard logical form that a computer system can understand and execute. This feature wasn’t present neither in Veritrade nor in its             competitors.
   
 
 ## 2. Sceptre
@@ -57,6 +55,7 @@ layout: default
 * It reduces the manual efforts of preparing training data and organizing questions from users. 
 * It also uses iterative learning and continuously evolves based on usage.
 * As part of the SEMSE team, I was involved in improving the model architectures used within the product for improved performance and demo-ing the product to various clients.
+
 
 
 [back](./)
