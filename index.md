@@ -12,14 +12,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me!
 
-Hello! I am currently a graduate student pursuing my Master of Science in Computer Science, specializing in Data Science from the University of Southern California. I completed my undergrad from Vellore Institute of Technology, Vellore in Computer Science specializing in Bioinformatics with a GPA of 9.49 and graduated as a bronze medallist.
+Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my undergrad from _Vellore Institute of Technology, Vellore_ in **Computer Science specializing in Bioinformatics** with a GPA of **9.49** and graduated as a **bronze medallist**.
 
-I have worked in wonderful companies such as Societe Generale Global Solution Center in the Artificial Intelligence team of their Innovations Group as a Data Scientist and I have interned at SigTuple Technologies, Mazumdar Shaw Center for Translational Research, the Indian Institute of Science, Bangalore and the International Institute of Information Technology, Bangalore.
+I have worked in wonderful companies such as _Societe Generale Global Solution Center_ in the **Artificial Intelligence team** of their Innovations Group as a `Data Scientist` and I have interned at **SigTuple Technologies, Mazumdar Shaw Center for Translational Research, the Indian Institute of Science, Bangalore and the International Institute of Information Technology, Bangalore.**
 
 When I am not in front of the computer screen, I am probably playing video games, exploring space through my telescope or eating and hopefully cooking some of my favorite foods!
 
 <div align="center">
-  <img alt="Logo" src="https://drive.google.com/file/d/1frHLonPcPXlmXMu6ANHQGFk05KM8_3WV/view?usp=sharing" width="100" />
+  <img alt="Logo" src="https://drive.google.com/uc?export=view&id=1frHLonPcPXlmXMu6ANHQGFk05KM8_3WV" width="200" />
 </div>
 
 ## Header 2
