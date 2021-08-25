@@ -50,20 +50,20 @@ I have worked in these amazing companies in the past!
 **Mazumdar Shaw Center for Translational Research, India** - _Neuro-Oncology Department_
 * Timeframe: May 2019 => July 2019
 * Position: Bioinformatics Intern
-* Guide: Dr. Nameeta Shah
+* Guide: <a href="https://www.msctr.org/2016/09/16/dr-nameeta-shah/" target="_blank">Dr. Nameeta Shah</a>
 * Domain: Data Analysis on Copy Number Variation and DNA Methylation Data for Glioblastomas and Lower Grade Gliomas.
 
   
 **Indian Institute of Science, Bangalore, India** - _Department of Computer Science and Automation_
 * Timeframe: May 2018 => July 2018
 * Position: Research Intern
-* Guide: Dr. Shirish Shevade
+* Guide: <a href="https://www.csa.iisc.ac.in/~shirish/" target="_blank">Dr. Shirish Shevade </a>
 * Domain: Machine Learning and Deep Learning in Natural Language Processing on textual data.
 
 **International Institute of Information Technology, Bangalore, India** - _Computational Sciences Laboratory_
 * Timeframe: May 2017 => July 2017
 * Position: Research Intern
-* Guide: Dr. Sachit Rao
+* Guide: <a href="https://www.iiitb.ac.in/csl/people/sachit.html" target="_blank">Dr. Sachit Rao </a>
 * Domain: Artificial Neural Networks and the Deepcoder algorithm for Program Synthesis
 
 
