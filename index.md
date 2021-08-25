@@ -83,5 +83,5 @@ I have worked in these amazing companies in the past!
 * _R Lokeshkumar, Omkar Vivek Sabnis, Saikat Bhattacharyya_ (2019). A Novel Approach to Extract and Analyse Trending Cuisines on Social Media **in the _International conference on Computer Networks, Big data and IoT by Springer_**
 * _Omkar Vivek Sabnis, R Lokeshkumar_ (2019). A novel object detection system for improving safety at unmanned railway crossings **in the _Fifth International Conference on Science Technology Engineering and Mathematics by IEEE_**
 <div align="center">
-  <a href="https://github.com/osabnis/osabnis.github.io/blob/master/publications.md" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view more about my publications!</a>
+  <a href="https://osabnis.github.io/publications.html" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view more about my publications!</a>
 </div>
