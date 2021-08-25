@@ -18,15 +18,15 @@ I have worked in wonderful companies such as _Societe Generale Global Solution C
 
 When I am not in front of the computer screen, I am probably playing video games, exploring space through my telescope or eating and hopefully cooking some of my favorite foods!
 
-<div style="float:left;">
+<div style="display: inline-block">
   <img alt="Logo" src="https://drive.google.com/uc?export=view&id=14ScUMttHGhpcSapDDjsaQv5CgrKml3Co" width="200" />
 </div>
 
-<div style="float:left;">
+<div style="display: inline-block">
   <img alt="Logo" src="https://drive.google.com/uc?export=view&id=1frHLonPcPXlmXMu6ANHQGFk05KM8_3WV" width="200" />
 </div>
 
-<div style="float:left;">
+<div style="display: inline-block">
   <img alt="Logo" src="https://drive.google.com/uc?export=view&id=14Q_PERV0Yx0I9FvwquWiWFZ0d7cJ5QLP" width="200" />
 </div>
 
