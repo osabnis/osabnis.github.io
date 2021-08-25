@@ -55,4 +55,6 @@ I also did a few mini-projects such as:
 
 For a more detailed report on all these projects: <a href="https://drive.google.com/file/d/18v2feaAgssGgx4TIkFaYM334dM7PgVEd/view?usp=sharing"> Click here! </a>
 
+Some of these projects have GitHub repositories on my GitHub page!
+
 [back](./)
