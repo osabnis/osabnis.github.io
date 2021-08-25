@@ -5,6 +5,10 @@ layout: default
 
 Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my **Bachelors of Technology in Computer Science specializing in Bioinformatics** in 2020 from _Vellore Institute of Technology, Vellore_  with a GPA of **9.49** and graduated as a **bronze medallist**.
 
+<div align="center">
+  <a href="https://github.com/osabnis" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my Resume!</a>
+</div>
+
 Here is a list of the skills that I am proficient in!
 * AI: Deep Learning, Natural Language Processing, Computer Vision
 * Machine Learning: Random Forest, XGBoost, SVM, Decision Trees, KNN, Clustering Algorithms, Neural Networks, Ensemble Methods
@@ -29,6 +33,7 @@ When I am not in front of the computer screen, I am probably playing video games
     <img alt="Logo" src="https://drive.google.com/uc?export=view&id=14Q_PERV0Yx0I9FvwquWiWFZ0d7cJ5QLP" width="200" />
   </div>
 </div>
+
 
 
 # Where I have worked!
@@ -67,104 +72,13 @@ I have worked in these amazing companies in the past!
 * Domain: Artificial Neural Networks and the Deepcoder algorithm for Program Synthesis
 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# My Projects
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# My Publications
 
-```
-The final element.
-```
+* _Natalya Dorofeyeva, Konstantin Drachuk, Rajasekaran Rajkumar, Omkar Sabnis, Vadim Sagach_ (2021). H2S donor improves heart function and vascular relaxation in diabetes **in _European Journal of Clinical Investigation by Wiley_**
+* _R Lokeshkumar, Omkar Vivek Sabnis, Saikat Bhattacharyya_ (2019). A Novel Approach to Extract and Analyse Trending Cuisines on Social Media **in _International conference on Computer Networks, Big data and IoT by Springer_**
+* _Omkar Vivek Sabnis, R Lokeshkumar_ (2019). A novel object detection system for improving safety at unmanned railway crossings **in _Fifth International Conference on Science Technology Engineering and Mathematics by IEEE_**
