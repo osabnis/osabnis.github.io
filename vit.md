@@ -4,6 +4,8 @@ layout: default
 
 # Some of my projects that I had done as a part of my curriculum at VIT, Vellore
 These are some of the projects I had done at my undergrad university:
+
+
 | Subject                            | Project                                                                                                           |
 |:-----------------------------------|:------------------------------------------------------------------------------------------------------------------|
 | Engineering Physics                | Light Following Robot using an Arduino                                                                            |  
