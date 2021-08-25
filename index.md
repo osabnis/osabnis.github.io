@@ -36,52 +36,35 @@ When I am not in front of the computer screen, I am probably playing video games
 I have worked in these amazing companies in the past!
 
 **Societe Generale, India** - _Artificial Intelligence Team - Innovations Group_
-* At SocGen, I was part of the Veritrade team, where I developed a new feature - a pilot meaning representation module that uses deep
-  learning to convert semantically similar but syntactically different natural language statements into a standard logical
-  form that a computer system can understand and execute. This feature wasn’t present neither in Veritrade nor in its competitors.
-  Veritrade is an AI based solution that automates the process of Letter of Credit based International Trade document
-  verification and validation against International standards using Deep Learning and aims at improving the speed of document checking by almost 60%.
-* I was also a  member of the AI team that developed the deep learning framework for Sceptre - a document understanding
-  platform. I worked on developing the resource management component, model storage and versioning component and
-  model evaluation component for the platform. The platform aims at simplifying the training and evaluation of AI models
-  on documents by presenting a no-code UI to the business - for faster and easier AI development and deployment.
-* I was a part of a 2 member AI team that developed and deployed MAX - a deep learning based conversational agent
-  developed by Societe Generale - for ALD Automotive, Mumbai - a leading car leasing company. The process involved
-  designing conversational flow for the client, training deep learning models to identify customer intent and concepts
-  from customer queries and deploying MAX on the customer’s servers after testing. The deployment will help reduce
-  employee costs by around 50% and provide 24x7 support for the client by helping schedule appointments for
-  vehicle servicing and repair.
+* Timeframe: August 2020 => August 2021
+* Position: Data Scientist
+* Domain: Deep Learning in Natural Language Processing on Structured and Unstructured financial documents.
+
   
 **SigTuple Technologies, India** - _Data Science Team_
-* At <a href="https://sigtuple.com/" target="_blank">SigTuple</a> as an intern, I developed a Deep Learning pipeline to diagnose Tuberculosis on SigTuple’s AI100 and AI101 diagnostic machines - the
-  goal is to reduce the diagnostic time by almost 90% and improve the accuracy of TB Sputum Smear Test by over 50%.
-* I also deployed a pipeline based on the Yolo architecture, which was able to grade FOVs for tuberculosis with an exact match
-  in 161 FOV out of 185 taken from over 15 patients to the ground-truth established by a certified pathologist. The pipeline
-  is currently in production.
-* I was also involved in building a super-resolution pipeline using convolutional autoencoders which was able to increase the resolution of a 40x
-  image to that of a 100x image. This was required as the pathology machines do not come equipped with 100x lens. It has
-  helped improve the speed and accuracy of annotating the image data by almost 40%, both for the tuberculosis pipeline and other pipelines in the
-  company.
+* Timeframe: December 2019 => May 2020
+* Position: Data Science Intern
+* Domain: Deep Learning and Computer Vision on Biomedical Image data.
+
 
 **Mazumdar Shaw Center for Translational Research, India** - _Neuro-Oncology Department_
-* At <a href="https://www.msctr.org/" target="_blank">MSCTR</a>, I had the opportunity to work under <a href="https://www.msctr.org/2016/09/16/dr-nameeta-shah/"       target="_blank">Dr. Nameeta Shah</a> - one of the leading scientists in the domain of neuro-oncology. Here I worked on analyzing of Copy Number Variation Data and DNA Methylation   Data for Finding Useful Biomarkers in Glioblastoma Multiforme, which is an aggressive brain cancer. I was able to find 15 significant genetic variations on analyzing 563 patient   samples that help in predicting patient prognosis like ’Time to Death’ and ’Age of Occurrence.’
-* Applied a similar analysis pipeline to Lower Grade Gliomas, which are lesser dangerous tumours. I was able to find 12
-  significant genetic variations on analyzing 958 patient samples that help in predicting patient prognosis like ’Time to
-  Death’, ’Age of Occurrence’ and ’Histological Type.’
-* Also contributed to a publication – ‘Recursive Consensus Clustering’ – a novel algorithm designed at the institute by
-  doing algorithm analysis, testing and hosting the visualizations on a website. The paper can be found at - https://www.nature.com/articles/s41598-020-67016-3
+* Timeframe: May 2019 => July 2019
+* Position: Bioinformatics Intern
+* Guide: Dr. Nameeta Shah
+* Domain: Data Analysis on Copy Number Variation and DNA Methylation Data for Glioblastomas and Lower Grade Gliomas.
+
   
 **Indian Institute of Science, Bangalore, India** - _Department of Computer Science and Automation_
-* At the <a href="https://www.csa.iisc.ac.in/" target="_blank">CSA department at IISc, Banglore </a>, I had the opportunity to work under <a href="https://www.csa.iisc.ac.in/~shirish/" target="_blank">Dr. Shirish Shevade </a>, an amazing researcher in the domain of Natural Language Processing. Here, I was able to         develop Sentiment and Semantic Analysis Systems using Convolutional Neural Networks. The system used a variety
-  of models to detect sentiment from simple structures like phrases and sentences and complex structures like documents.
-  The system analyzed the sentiment and was able to output which key words or phrases were able to impact the sentiment
-  of the sentence/document with an accuracy of 0.941 in sentences and 0.873 in documents.
-* Also implemented multi-domain projects in Computer Vision and Natural Language Processing where I built a Visual
-  Question Answering system based on a CNN and LSTM based architecture. The CNN model worked on extracting the
-  image features while the LSTM worked on extracting the features of the question. When an image and a question about
-  the image were given my model was able to give the correct top-5 answer with an accuracy of 0.56.
+* Timeframe: May 2018 => July 2018
+* Position: Research Intern
+* Guide: Dr. Shirish Shevade
+* Domain: Machine Learning and Deep Learning in Natural Language Processing on textual data.
 
-
+**International Institute of Information Technology, Bangalore, India** - _Computational Sciences Laboratory_
+* Timeframe: May 2017 => July 2017
+* Position: Research Intern
+* Guide: Dr. Sachit Rao
+* Domain: Artificial Neural Networks and the Deepcoder algorithm for Program Synthesis
 
 
 ### Header 3
