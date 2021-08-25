@@ -15,12 +15,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my **Bachelors of Technology in Computer Science specializing in Bioinformatics** in 2020 from _Vellore Institute of Technology, Vellore_  with a GPA of **9.49** and graduated as a **bronze medallist**.
 
 Here is a list of the skills that I am proficient in!
-* Deep Learning
-* Machine Learning
-* Natural Language Processing
-* Computer Vision
-* Git
-* FastAPI and Flask
+* AI: Deep Learning, Natural Language Processing, Computer Vision
+* Machine Learning: Random Forest, XGBoost, SVM, Decision Trees, KNN, Clustering Algorithms, Neural Networks, Ensemble Methods
+* Computer Science: Data and Web Mining, High Performance Computing, Data Visualization, Internet of Things
+* Biology: Cell Biology, Biochemistry, Genomics, Proteomics, Bioinformatics
+* Mathematics: Statistics, Differential Equations, Optimizations, Linear Algebra
+* Development: Git, FastAPI, Flask, Django
+* Languages: Python, Java, R
 
 When I am not in front of the computer screen, I am probably playing video games, exploring space through my telescope or eating and hopefully cooking some of my favorite foods!
 
