@@ -4,7 +4,7 @@ layout: default
 
 # My work at SigTuple as a Data Science Intern
 
-## 1. Detection and Grading of Tuberculosis from Sputum Smear Microscopy using Deep Learning 
+## Detection and Grading of Tuberculosis from Sputum Smear Microscopy using Deep Learning 
 <div align="center">
     <img alt="Logo" src="images/sigtuple.png" width="300" />
 </div>
