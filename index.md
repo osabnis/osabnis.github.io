@@ -6,7 +6,7 @@ layout: default
 Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my **Bachelors of Technology in Computer Science specializing in Bioinformatics** in 2020 from _Vellore Institute of Technology, Vellore_  with a GPA of **9.49** and graduated as a **bronze medallist**.
 
 <div align="center">
-  <a href="https://github.com/osabnis" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my Resume!</a>
+  <a href="https://drive.google.com/file/d/1Cs4Dv02r2yimH3nZcp-6qoOWncVnIQBD/view?usp=sharing" class="btn btn-email"><span class="fa fa-envelope"></span>Click here to view my Resume!</a>
 </div>
 
 Here is a list of the skills that I am proficient in!
