@@ -12,9 +12,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me!
 
-Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my undergrad from _Vellore Institute of Technology, Vellore_ in **Computer Science specializing in Bioinformatics** with a GPA of **9.49** and graduated as a **bronze medallist**.
+Hello! I am currently a graduate student pursuing my **Master of Science in Computer Science, specializing in Data Science** from the _University of Southern California_. I completed my **Bachelors of Technology in Computer Science specializing in Bioinformatics** in 2020 from _Vellore Institute of Technology, Vellore_  with a GPA of **9.49** and graduated as a **bronze medallist**.
 
-I have worked in wonderful companies such as _Societe Generale Global Solution Center_ in the **Artificial Intelligence team** of their Innovations Group as a `Data Scientist` and I have interned at _SigTuple Technologies, Mazumdar Shaw Center for Translational Research, the Indian Institute of Science, Bangalore and the International Institute of Information Technology, Bangalore._
+Here is a list of the skills that I am proficient in!
+* Deep Learning
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Git
+* FastAPI and Flask
 
 When I am not in front of the computer screen, I am probably playing video games, exploring space through my telescope or eating and hopefully cooking some of my favorite foods!
 
