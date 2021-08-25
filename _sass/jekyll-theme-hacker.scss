@@ -53,6 +53,7 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
+  overflow: hidden;
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
   padding: 20px 0;
